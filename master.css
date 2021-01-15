@@ -1,0 +1,69 @@
+
+/*SELETTORE {
+    proprieta:valore;
+    proprieta:valore;
+}*/
+
+body{
+  background-image:url(images/background.jpg);
+  background-size: cover;
+  width:1100px;
+  height:630px;
+  padding:30px;
+  margin:auto;
+  font-family: 'Roboto', sans-serif;
+}
+
+header{
+  text-align: center;
+}
+h1{
+  color:rgb(0, 220, 0);
+  line-height: 5px;
+}
+.Buttons{
+  background-color:rgb(0, 220, 0);
+  width:600px;
+  padding: 3px;
+  text-align: center;
+  margin: auto;
+
+}
+#rectangle{
+    width:180px;
+    height:15px;
+    background:orange;
+    border-radius: 5px
+
+}
+#rectangle2{
+    width:390px;
+    height:15px;
+    background:rgb(0,190,0);
+    border-radius: 5px
+}
+#rectangle3{
+    width:100px;
+    height:15px;
+    background:#ff3f3f;
+    border-radius:5px
+}
+main{
+  line-height:18px;
+  color:white;
+  padding-left:15px;
+}
+.fontsize {
+  font-size:30px;
+}
+.block{
+  display:block;
+  font-size:10px;
+}
+#contenitore{
+  background:rgb(0,0,0,0.5);
+  padding:60px;
+  border-radius:10px;
+  width:650px;
+  margin:auto;
+}
